@@ -3,7 +3,7 @@
     <!--
     THIS FILE IS NOT PART OF THE THEME, DO NOT MODIFY!
     -->
-    <sys:String x:Key="LanguageName">Azərbaycanca</sys:String>
+    <sys:String x:Key="LanguageName">Azərbaycan Dili</sys:String>
     <sys:String x:Key="LOCLanguageSettingsLabel">Playnite dili</sys:String>
     <sys:String x:Key="LOCExitAppLabel">Çıxış</sys:String>
     <sys:String x:Key="LOCFilterActiveLabel">Filtr Aktiv</sys:String>
